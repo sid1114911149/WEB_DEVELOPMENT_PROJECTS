@@ -1,0 +1,8 @@
+{
+    "livePreview.hostIP": "172.30.6.146",
+    "livePreview.httpHeaders": {
+        
+        "Accept-Ranges": "bytes"
+    },
+    "livePreview.defaultPreviewPath": "/analogclock.html"
+}

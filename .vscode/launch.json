@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://172.30.6.146:5500/analogclock.html",
+            "request": "launch",
+            "url": "http://172.30.6.146:5500/analogclock.html"
+        }
+    ]
+}
